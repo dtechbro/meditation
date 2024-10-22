@@ -22,6 +22,7 @@ const TabsLayout = () => {
               color={color}
             />
           ),
+          headerShown: false
         }}
       />
 
@@ -36,6 +37,7 @@ const TabsLayout = () => {
               color={color}
             />
           ),
+          headerShown: false
         }}
       />
     </Tabs>

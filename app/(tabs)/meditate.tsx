@@ -1,12 +1,12 @@
 import { View, Text } from 'react-native'
 import React from 'react'
 
-const Affirmations = () => {
+const Meditate = () => {
   return (
     <View>
-      <Text>Affirmations</Text>
+      <Text>Meditate</Text>
     </View>
   )
 }
 
-export default Affirmations
+export default Meditate
